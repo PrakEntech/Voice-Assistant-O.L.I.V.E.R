@@ -1,0 +1,28 @@
+BROWSER - C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe
+Commands - 
+open Google
+open YouTube
+open WhatsApp
+open Gmail
+open Facebook
+open Instagram
+your creator
+MS Paint
+shutdown
+open dictionary
+open wikipedia
+open notepad
+how are you
+the time
+goodbye Oliver
+clear cache
+the system
+location of a file
+Google search
+weather of {area}
+
+Personalized Commands(Only works in my PC(due to file path))-
+open zoom
+list of games (Create a Games folder in C: and put any folder inside it to check)
+play music (Specified the the to a playlist)
+

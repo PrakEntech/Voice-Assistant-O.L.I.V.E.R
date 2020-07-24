@@ -1,0 +1,19 @@
+---------------------------------------O.L.I.V.E.R Features---------------------------------------
+(I) Open webpages----
+	1)Google
+	2)Youtube
+	3)Whatsapp
+	4)Facebook
+	5)Instagram
+	6)Gmail
+(II) Plays Music
+(III) Opens (MS Paint) and (Notepad)
+(IV) Read out Wikipedia Summary and Word Meanings
+(V) Tells the Current TIME(in system's clock)
+(VI) Google Search Separately
+(VII) Print the locaton of any file on the system (But Absolute filename with extension is required)
+(VIII) Tells the Basic System Specs
+(IX) Informs about the creator
+(X) Clears Cache files
+(XI) Able to Shutdown the PC
+(XII)(WEB SCRAPING)Current Temperature of any area (without getting IP blocked)
