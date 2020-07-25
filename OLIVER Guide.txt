@@ -21,7 +21,7 @@ location of a file
 Google search
 weather of {area}
 
-Personalized Commands(Only works in my PC(due to file path))-
+Personalized Commands(Only works in my PC(due to file path))- #CAN BE EDITED....
 open zoom
 list of games (Create a Games folder in C: and put any folder inside it to check)
 play music (Specified the the to a playlist)
