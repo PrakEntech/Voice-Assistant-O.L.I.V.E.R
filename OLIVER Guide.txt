@@ -20,6 +20,9 @@ the system
 location of a file
 Google search
 weather of {area}
+remember that {key} is {value}
+{key}
+forget about {key}
 
 Personalized Commands(Only works in my PC(due to file path))- #CAN BE EDITED....
 open zoom
