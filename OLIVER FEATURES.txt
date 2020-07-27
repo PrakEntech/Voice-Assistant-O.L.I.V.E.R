@@ -17,3 +17,4 @@
 (X) Clears Cache files
 (XI) Able to Shutdown the PC
 (XII)(WEB SCRAPING)Current Temperature of any area (without getting IP blocked)
+(XIII)Can store data in data.dat file by providing {key} and {value}
